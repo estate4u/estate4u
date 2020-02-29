@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1084358652098",
+    "firebase_url": "https://estate4u-1582905894149.firebaseio.com",
+    "project_id": "estate4u-1582905894149",
+    "storage_bucket": "estate4u-1582905894149.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1084358652098:android:c9b8661499a14c5dd84b5b",
+        "android_client_info": {
+          "package_name": "com.grad.estat4u"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1084358652098-cc4gc9v3l6j2lt7l2k51enjfhlp3c2i1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.grad.estat4u",
+            "certificate_hash": "b6b033c3eeaa6aa6cf3231ab950d26a3e4990dfc"
+          }
+        },
+        {
+          "client_id": "1084358652098-qi1as2uu9t920dt9jrfd2mq9ert0fn2n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsb_8ikfYq7RJKk9xRZgWAnhilTH0-VsI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1084358652098-qi1as2uu9t920dt9jrfd2mq9ert0fn2n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:title="Home"
+        android:id="@+id/home_menu"
+        android:icon="@drawable/housewithchimney"
+        app:showAsAction="always"
+        android:color="@color/colorPrimaryDark"
+        />
+    <item
+        android:title="Messages"
+        android:id="@+id/messages_menu"
+        android:icon="@drawable/speechbubble"
+        app:showAsAction="always"
+        android:color="@color/colorPrimaryDark"
+        />
+
+    <item
+        android:title="Add Ad"
+        android:id="@+id/add_ad_menu"
+        android:icon="@drawable/add"
+        app:showAsAction="always"
+        android:color="@color/colorPrimaryDark"
+        />
+    <item
+        android:title="My Ads"
+        android:id="@+id/my_ads_menu"
+        android:icon="@drawable/digitalmarketing"
+        app:showAsAction="always"
+        android:color="@color/colorPrimaryDark"
+        />
+    <item
+        android:title="Profile"
+        android:id="@+id/profile_menu"
+        android:icon="@drawable/account"
+        app:showAsAction="always"
+        android:color="@color/colorPrimaryDark"
+        />
+
+</menu>
